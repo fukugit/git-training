@@ -2,7 +2,7 @@
 
 ## Description
 This project purpose is only training for git command.  
-Therefore, the module in this project does work on any environments.  
+Therefore, the module in this project does not work on any environments.  
 
 ## Demo
 I've updated some useful git commands I often used.  
