@@ -1,3 +1,2 @@
 aaa
-cherry-pick 1
-BBB
+bbb
